@@ -33,5 +33,13 @@ This project focuses on face detection using Haar Cascade Classifiers and OpenCV
 ### **Face Detected Images**
 
 ![Alt text](https://raw.githubusercontent.com/Punam918/Face_detection_In_Image_And_video/refs/heads/master/recorded/face_detected_image_3.png)
+
 ![Alt text](https://raw.githubusercontent.com/Punam918/Face_detection_In_Image_And_video/refs/heads/master/recorded/face_detected_image_2.png)
+
 ![Alt text](https://raw.githubusercontent.com/Punam918/Face_detection_In_Image_And_video/refs/heads/master/recorded/face_detected_image_1.png)
+
+## DEMO On Face Detected On Video
+
+https://github.com/user-attachments/assets/6447320b-d120-4ef0-994f-335657e75a24
+
+
